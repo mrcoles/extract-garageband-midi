@@ -2,7 +2,7 @@
 Extract MIDI from a GarageBand track
 ====================================
 
-You can find info here on how to extract a MIDI (.mid) file from a GarageBand track.
+You can find info [here](http://scotttroyer.com/2014/05/export-midi-from-garageband/) on how to extract a MIDI (.mid) file from a GarageBand track.
 
 It references a downloadable Apple droplet app built by Lars Kobbe called [GB2MIDI](http://www.larskobbe.de/midi-export-in-apples-garageband/) that does the final step.
 
